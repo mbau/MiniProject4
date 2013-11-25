@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, PhotoIntentActivity!</string>
+    <string name="app_name">Mini Project 4</string>
+   	<string name="btnIntend">Take Picture</string>
+    <string name="btnIntendS">Go to Gallery</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">MiniProject4</string>
+
+</resources>
